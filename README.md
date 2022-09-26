@@ -1,6 +1,6 @@
 # In-Class-Assignments-Week-04
-#DONE BY MYSELF
-#The In Class Assignments for week 04
+DONE BY MYSELF
+The In Class Assignments for week 04
 Assignment 1: Create a program that prompts the user to enter a number
 Determine if that number is even, odd, or zero
 Determine if the number is positive or negative
